@@ -1,7 +1,7 @@
 # CodeClause_MusicPlayer
 PYTHON DEVELOPMENT INTERN
 
-As a part of my Python development internship, I've created a music player in which you can add convenient music folders containing the list of your favorite songs on your PC. It is created using Python with the help of Tkinter.
+As a part of my Python development internship, I've created a music player in which you can add convenient music folders containing the list of your favorite songs on your PC and listen to it. It is created using Python with the help of Tkinter.
 
 OUTPUT:
 
